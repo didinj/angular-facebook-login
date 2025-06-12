@@ -1,6 +1,6 @@
 # Facebook Login in Angular 20 Using Standalone Components
 
-Read more tutorial [here]().
+Read more tutorial [here](https://www.djamware.com/post/5d4628d5721e1ce9d7dc95b0/facebook-login-in-angular-20-using-standalone-components).
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0.
 
